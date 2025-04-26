@@ -20,6 +20,6 @@ Git, reliable cloud archive, etc etc, but the main point that **I just can**.
 - [ ] Make everything properly named and ordered
 - [ ] Check for.. *inappropriate language* and non-english words in some files
 
-# Reference to Authors of Courses (just because I like 'em)
+## Reference to Authors of Courses (just because I like 'em)
 
 www.boot.dev/
