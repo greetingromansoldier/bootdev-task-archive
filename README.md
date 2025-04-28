@@ -23,3 +23,7 @@ Git, reliable cloud archive, etc etc, but the main point that **I just can**.
 ## Reference to Authors of Courses (just because I like 'em)
 
 www.boot.dev/
+
+## upd 29.04
+
+As I can see, authors changed challenges (*optional* lectures at the end of each chapter) to just practice lectures. So approximately from *currying* chapter it follows the new format and all prevoius `cX-<name>` directories should be considered as just practice of a particular concepts. (I didn't consider challenges as *optional* so I did all or almost all of them)
